@@ -5,3 +5,4 @@ tavily-python==0.3.3
 python-dotenv==1.0.0
 requests==2.31.0
 reportlab==4.0.7
+tiktoken==0.5.2
